@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@wangeditor-next/editor": "^5.6.1",
+    "@wangeditor-next/editor": "^5.6.2",
     "@wangeditor-next/editor-for-vue": "^5.1.14",
     "vue": "^3.5.12"
   },

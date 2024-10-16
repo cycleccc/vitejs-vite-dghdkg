@@ -30,6 +30,7 @@ import {
   ref,
   onMounted,
 } from 'vue';
+import '@wangeditor-next/editor/dist/css/style.css';
 import { Editor, Toolbar } from '@wangeditor-next/editor-for-vue';
 // 编辑器实例，必须用 shallowRef，重要！
 const editorRef = shallowRef();
